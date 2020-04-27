@@ -28,16 +28,16 @@ Example output:
 + F:\Techno\Enrico Sangiuliano - Biomorph - 2018 (320 kbps)\Tec.Enrico Sangiuliano - Biomorph - 2018 (320 kbps).m3u
 
 Example playlist page in Volvo car:
-_Ambient
-_DrumBass
-_Psy
-_Techno
-Amb.Cell - Live in Corfu (2020)
-Amb.Eguana_-_Numbness_(2020)
-Dru.Phace - Caged EP (2020)
-Dru.REAPER - RENEGADE EP (2020)
-Psy.VA - Guardians of the Light (2020)
-Psy.Volcano - Sacred Tools, Vol. 2 (2020)
-Tec.Enrico Sangiuliano - Astral Projection (2017)
-Tec.Enrico Sangiuliano - Biomorph - 2018 (320 kbps)
++_Ambient
++_DrumBass
++_Psy
++_Techno
++Amb.Cell - Live in Corfu (2020)
++Amb.Eguana_-_Numbness_(2020)
++Dru.Phace - Caged EP (2020)
++Dru.REAPER - RENEGADE EP (2020)
++Psy.VA - Guardians of the Light (2020)
++Psy.Volcano - Sacred Tools, Vol. 2 (2020)
++Tec.Enrico Sangiuliano - Astral Projection (2017)
++Tec.Enrico Sangiuliano - Biomorph - 2018 (320 kbps)
 
