@@ -10,7 +10,7 @@ https://github.com/tormozit/PlaylistForVolvo
 2.второй уровень - альбомы
 
 Использование:
-PlaylistForVolvo.exe
+PlaylistForVolvo.exe <USB drive letter>
 
 Пример использования:
 PlaylistForVolvo.exe F
