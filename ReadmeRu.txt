@@ -44,5 +44,24 @@ Psy.Volcano - Sacred Tools, Vol. 2 (2020)
 Tec.Enrico Sangiuliano - Astral Projection (2017)
 Tec.Enrico Sangiuliano - Biomorph - 2018 (320 kbps)
 
-
-
+Поддерживаются аудиофайлы с расширениями:
+aac
+ac3
+aif
+aiff
+alac
+ape
+apl
+asf
+cda
+flac
+m2a
+m4a
+mp3
+mp2
+mpa
+ogg
+oga
+ra
+wav
+wma
