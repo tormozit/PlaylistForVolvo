@@ -11,7 +11,7 @@
 2.второй уровень - альбомы
 
 Использование:
-PlaylistForVolvo.exe <USB drive letter>
+PlaylistForVolvo.exe <буква USB-накопителя>
 
 Пример использования:
 PlaylistForVolvo.exe F
