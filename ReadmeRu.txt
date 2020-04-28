@@ -1,4 +1,5 @@
-https://github.com/tormozit/PlaylistForVolvo
+Вебсайт- https://sourceforge.net/projects/playlistforvolvo
+Исходный код - https://github.com/tormozit/PlaylistForVolvo
 
 Утилита командной строки для Windows платформы для создания списков воспроизведения (m3u) для каждой папки на USB-накопителе. Полезно для автомобилей Volvo.
 Списки воспроизведения создаются для первых двух уровней структуры папок и получают имена

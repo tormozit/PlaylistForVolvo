@@ -1,4 +1,5 @@
-https://github.com/tormozit/PlaylistForVolvo
+Website - https://sourceforge.net/projects/playlistforvolvo
+SourceCode - https://github.com/tormozit/PlaylistForVolvo
 
 Command line tool for Windows platform to generate playlists (m3u) for every folder on USB drive. Useful for Volvo cars.
 Playlists are generated for first 2 levels of folder structure and they get names
