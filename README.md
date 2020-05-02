@@ -10,12 +10,3 @@ Recommended folder organization:
 
 Usage:
 PlaylistForVolvo.exe <Audio collection path> [r]
-
-Parameters:
-<Audio collection path> - you can specify the drive letter, or path to folder
-r - to pre-delete all existing playlists in folder subtree
-
-Example usage:
-PlaylistForVolvo.exe F
-PlaylistForVolvo.exe F: r
-PlaylistForVolvo.exe F:\Music
